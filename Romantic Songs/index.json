@@ -251,7 +251,18 @@
           "Atif Aslam"
        ],
        "link":"https://www.youtube.com/watch?v=ThPinA3THas"
-    }
+    },
+    {
+       "id":101,
+       "name":"Naina Tere Kajrare",
+       "lyrics":"https://lyricslogy.com/naina-tere-kajrare-hai-lyrics/",
+       "album":"Jab We met",
+       "Duration":"6 min 15 sec",
+       "singer":[
+          "ustad rashid khan"
+       ],
+       "link":"https://www.youtube.com/watch?v=WPwTPhFMm3k"
+    },
 
 
 
